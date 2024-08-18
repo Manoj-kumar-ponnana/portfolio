@@ -192,7 +192,6 @@
     width: inherit;
     height: 100vh;
     background: linear-gradient(rgba(195, 221, 246, 0.689),rgba(135, 207, 235, 0.573),rgba(51, 116, 201, 0.512)) fixed;
-    border: 1px solid black;
     display: flex;
 }
 #part1{
